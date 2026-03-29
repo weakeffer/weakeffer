@@ -49,7 +49,6 @@
 
 ## ⚡ About Me
 
-```text
 Backend Developer focused on Python
 
 • Building scalable and maintainable systems  
