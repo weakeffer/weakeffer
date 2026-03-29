@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+Engineer;Django+%7C+FastAPI+%7C+Flask;Clean+Architecture+Enthusiast&theme=dark&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=weakeffer&theme=dark&center=true&width=500&height=45">
 </p>
 
 ## 🧠 Tech Stack
