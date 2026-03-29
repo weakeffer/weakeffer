@@ -8,7 +8,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,docker,git" />
 </p>
 
 ## 🔥 Activity
